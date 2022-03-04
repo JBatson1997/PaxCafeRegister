@@ -1,0 +1,12 @@
+Fish-Cutter 9.25 75
+Hot-Dog 4.25 60
+Beef-Burger 6.00 90
+Wings 2.75 90
+Fries 4.75 45
+Pizza-Slice 9.35 50
+Salad 6.75 45
+Jam-Puff 2.00 15
+Turnover 3.00 15
+Mauby 1.50 20
+Juice 1.50 20
+Water 1.00 15
